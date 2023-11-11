@@ -1,2 +1,2 @@
 # market_analysis
-Predict customer behaviour in the market and how to utilize that behaviour
+Dataset source from Kaggle: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset
