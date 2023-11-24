@@ -1,10 +1,10 @@
-# market_analysis
+# Unlocking Sales Potential: A Comprehensive Market Analysis of Grocery Purchases through Apriori Association Rules
 Dataset source from Kaggle: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset
 
 # Overview
 Groceries market is widely utilized by a diverse demographic due to its accessibility and competitive pricing, particularly catering to the mid to low-income segments. To enhance business profitability, the implementation of an effective recommendation system is crucial. Customers typically purchase only what they need, however, as an entrepreneur, the objective is to encourage increased spending to maximize profits.
 
-In pursuit of this goal, we can conduct a comprehensive analysis of customer behavior based on the purchase history within the time frame of 2014-2015. The analysis will be delves into Market Basket Analysis.
+In pursuit of this goal, we can conduct a comprehensive analysis of customer behavior based on the purchase history within the time frame of 2014-2015. The analysis will delve into Market Basket Analysis.
 
 ## Data Description
 | Field          | Description                                                    |
@@ -69,4 +69,4 @@ The graph depicts a product with a lift of 2 and a confidence level of 35%. This
 The graph depicts a product with a lift of 1 and a confidence level of 70%. In the analytical context, it's important to note that confidence values can be less accurate when dealing with highly frequent consequences. A lift value of 1 indicates no correlation between antecedents and consequences. However, when antecedents occur, there is a 70% chance that the consequence will also occur.
 
 ## Conclusion
-Based on the data analysis, we can conclude that there was a 5.8% increase in grocery sales from 2014 to 2015. The business has exhibited positive growth during this period. To further enhance this growth, we can leverage the Apriori algorithm. By identifying product with a lift greaer than 1, indicating a positive correlation, we can strategically encourage customers to make additional purchases, thereby maximizing sales opportunities.
+Based on the data analysis, we can conclude that there was a 5.8% increase in grocery sales from 2014 to 2015. The business has exhibited positive growth during this period. To further enhance this growth, we can leverage the Apriori algorithm. By identifying products with a lift greater than 1, indicating a positive correlation, we can strategically encourage customers to make additional purchases, thereby maximizing sales opportunities.
