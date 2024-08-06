@@ -30,43 +30,48 @@ Market Basket Analysis utilizing Apriori algorithm to research relationships bet
 
 ## Market Basket Analysis
 ### Frequencies Items Sold
-![top30](/images/top30.png)
+![top30](/image/top30.png)
 
 The graph illustrates the 30 items with the highest purchasing frequency in the grocery market.
 
-![itemSold](/images/frequencies.png)
+![itemSold](/image/frequencies.png)
 
 Frequencies of all items sold.
 
 ### Time Series
 #### Day of Week
-![dayOfWeek](images/DayOfWeek.png)
-![timeDayOfWeek](images/dailySales.png)
-![timeWeekSales](images/weekSales.png)
+![dayOfWeek](image/DayOfWeek.png)
+![timeDayOfWeek](image/dailySales.png)
+![timeWeekSales](image/weekSales.png)
 
 
 #### Months
-![months](images/Month.png)
-![timeMonths](images/monthSales.png)
+![months](image/Month.png)
+![timeMonths](image/monthSales.png)
 
 
 #### Years
-![years](images/years.png)
+![years](image/years.png)
 
 The graph illustrates the business performance on various days across different years. It is evident that Tuesdays in 2015 experienced higher purchase volumes compared to Tuesdays in 2014. The time series graph further reveals a consistent increase in sales over the years.
 
 ## Apriori
 ### Lift = 2 and Confidence = 35%
-![l2cf35](/images/lift2CF35.png)
-![parallell2cf35](/images/parallel_lift2CF35.png)
+![l2cf35](/image/lift2CF35.png)
+![parallell2cf35](/image/parallel_lift2CF35.png)
 
 The graph depicts a product with a lift of 2 and a confidence level of 35%. This indicates that the product is more likely to be purchased together, as the lift is greater than 1, signifying a positive correlation for the product.
 
 ### Lift = 1 and Confidence = 70%
-![l1cf70](/images/lift1CF70.png)
-![parallell1cf70](/images/parallel_lift1CF70.png)
+![l1cf70](/image/lift1CF70.png)
+![parallell1cf70](/image/parallel_lift1CF70.png)
 
 The graph depicts a product with a lift of 1 and a confidence level of 70%. In the analytical context, it's important to note that confidence values can be less accurate when dealing with highly frequent consequences. A lift value of 1 indicates no correlation between antecedents and consequences. However, when antecedents occur, there is a 70% chance that the consequence will also occur.
+
+## Dashboard
+![Growth](image/Growth%20Dashboard.png)
+![recommendation](image/Recommendation%20Dashboard)
+For interactive dashboard, here in this link [Tableau Dashborad](https://public.tableau.com/app/profile/daniel.rivalsyah2244/viz/TimeAnalysisAndRecommendations/RecommendationDashboard)
 
 ## Conclusion
 Based on the data analysis, we can conclude that there was a 5.8% increase in grocery sales from 2014 to 2015. The business has exhibited positive growth during this period. To further enhance this growth, we can leverage the Apriori algorithm. By identifying products with a lift greater than 1, indicating a positive correlation, we can strategically encourage customers to make additional purchases, thereby maximizing sales opportunities.
