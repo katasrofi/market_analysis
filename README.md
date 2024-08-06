@@ -65,7 +65,7 @@ The graph depicts a product with a lift of 2 and a confidence level of 35%. This
 ### Lift = 1 and Confidence = 70%
 ![l1cf70](image/lift1CF70.png)
 ![parallell1cf70](image/parallel_lift1CF70.png)
-![sssssssss](image/parallel_lift1CF70.png)
+![sssssssss](image/PLift1CF70.png)
 The graph depicts a product with a lift of 1 and a confidence level of 70%. In the analytical context, it's important to note that confidence values can be less accurate when dealing with highly frequent consequences. A lift value of 1 indicates no correlation between antecedents and consequences. However, when antecedents occur, there is a 70% chance that the consequence will also occur.
 
 ## Dashboard
