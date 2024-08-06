@@ -51,7 +51,7 @@ Frequencies of all items sold.
 
 
 #### Years
-![years](image/years.png)
+![years](/image/years.png)
 
 The graph illustrates the business performance on various days across different years. It is evident that Tuesdays in 2015 experienced higher purchase volumes compared to Tuesdays in 2014. The time series graph further reveals a consistent increase in sales over the years.
 
