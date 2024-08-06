@@ -72,7 +72,7 @@ The graph depicts a product with a lift of 1 and a confidence level of 70%. In t
 ![Growth](image/Growth%20Dashboard.png)
 ![Recommendation](image/Recommendation%20Dashboard.png)
 
-For interactive dashboard, here in this link [Tableau Dashborad](https://public.tableau.com/app/profile/daniel.rivalsyah2244/viz/TimeAnalysisAndRecommendations/RecommendationDashboard)
+For interactive dashboard, here in this link [Tableau Dashborad](https://public.tableau.com/app/profile/daniel.rivalsyah2244/viz/TimeAnalysisAndRecommendations/RecommendationDashboard.png)
 
 ## Conclusion
 Based on the data analysis, we can conclude that there was a 5.8% increase in grocery sales from 2014 to 2015. The business has exhibited positive growth during this period. To further enhance this growth, we can leverage the Apriori algorithm. By identifying products with a lift greater than 1, indicating a positive correlation, we can strategically encourage customers to make additional purchases, thereby maximizing sales opportunities.
