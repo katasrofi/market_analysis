@@ -30,11 +30,11 @@ Market Basket Analysis utilizing Apriori algorithm to research relationships bet
 
 ## Market Basket Analysis
 ### Frequencies Items Sold
-![top30](/image/top30.png)
+![top30](image/top30.png)
 
 The graph illustrates the 30 items with the highest purchasing frequency in the grocery market.
 
-![itemSold](/image/frequencies.png)
+![itemSold](image/frequencies.png)
 
 Frequencies of all items sold.
 
@@ -57,20 +57,21 @@ The graph illustrates the business performance on various days across different 
 
 ## Apriori
 ### Lift = 2 and Confidence = 35%
-![l2cf35](/image/lift2CF35.png)
-![parallell2cf35](/image/parallel_lift2CF35.png)
+![l2cf35](image/lift2CF35.png)
+![parallell2cf35](image/parallel_lift2CF35.png)
 
 The graph depicts a product with a lift of 2 and a confidence level of 35%. This indicates that the product is more likely to be purchased together, as the lift is greater than 1, signifying a positive correlation for the product.
 
 ### Lift = 1 and Confidence = 70%
-![l1cf70](/image/lift1CF70.png)
-![parallell1cf70](/image/parallel_lift1CF70.png)
+![l1cf70](image/lift1CF70.png)
+![parallell1cf70](image/parallel_lift1CF70.png)
 
 The graph depicts a product with a lift of 1 and a confidence level of 70%. In the analytical context, it's important to note that confidence values can be less accurate when dealing with highly frequent consequences. A lift value of 1 indicates no correlation between antecedents and consequences. However, when antecedents occur, there is a 70% chance that the consequence will also occur.
 
 ## Dashboard
 ![Growth](image/Growth%20Dashboard.png)
-![recommendation](image/Recommendation%20Dashboard)
+![Recommendation](image/Recommendation%20Dashboard)
+
 For interactive dashboard, here in this link [Tableau Dashborad](https://public.tableau.com/app/profile/daniel.rivalsyah2244/viz/TimeAnalysisAndRecommendations/RecommendationDashboard)
 
 ## Conclusion
