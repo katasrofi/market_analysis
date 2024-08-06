@@ -70,7 +70,7 @@ The graph depicts a product with a lift of 1 and a confidence level of 70%. In t
 
 ## Dashboard
 ![Growth](image/Growth%20Dashboard.png)
-![Recommendation](image/Recommendation%20Dashboard)
+![Recommendation](image/Recommendation%20Dashboard.png)
 
 For interactive dashboard, here in this link [Tableau Dashborad](https://public.tableau.com/app/profile/daniel.rivalsyah2244/viz/TimeAnalysisAndRecommendations/RecommendationDashboard)
 
